@@ -1,1 +1,1 @@
-# DataAnalyst_Seminar
+# Data Analyst Seminar
